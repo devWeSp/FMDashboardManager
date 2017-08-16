@@ -1,4 +1,4 @@
-#FM Dashboard Manager
+# FM Dashboard Manager
 
 ## Description
 Application to efficiently manage multiple dashboards. You can have up to 10 extra dashboards available on keyboard shortcuts you choose.
