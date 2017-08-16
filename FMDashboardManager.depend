@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1502654513 source:c:\users\frankmejzlik\onedrive\c++\cb\fmdashboardmanager\main.cpp
+	<iostream>
+
+1502918078 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\main.cpp
+	<iostream>
+	<windows.h>
+	"resource.h"
+
+1502917050 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\core\test.cpp
+
+1502917011 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\resource.rc
+	"resource.h"
+
+1502920550 c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\resource.h
+	<windows.h>
+	<shellapi.h>
+
