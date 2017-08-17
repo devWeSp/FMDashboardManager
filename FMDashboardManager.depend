@@ -2,17 +2,49 @@
 1502654513 source:c:\users\frankmejzlik\onedrive\c++\cb\fmdashboardmanager\main.cpp
 	<iostream>
 
-1502918078 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\main.cpp
+1503001918 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\main.cpp
+	"config.h"
+	"resource.h"
 	<iostream>
 	<windows.h>
-	"resource.h"
+	"FmDashboardManager.h"
+	"DataManager.h"
+	"Win32Api.h"
 
 1502917050 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\core\test.cpp
 
 1502917011 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\resource.rc
 	"resource.h"
 
-1502920550 c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\resource.h
+1502990479 c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\resource.h
 	<windows.h>
 	<shellapi.h>
+
+1502917050 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\core\fmdashboardmanager.cpp
+
+1502917050 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\file\datamanager.cpp
+
+1503001082 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\gui\win32api.cpp
+	"Win32Api.h"
+
+1502917011 source:c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\resource\resource.rc
+	"resource.h"
+
+1502990161 c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\resource\resource.h
+	<windows.h>
+	<shellapi.h>
+
+1503001736 c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\gui\win32api.h
+	"config.h"
+	<iostream>
+	<windows.h>
+	"resource.h"
+
+1502993685 c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\config\config.h
+	<windows.h>
+	<shellapi.h>
+
+1502989947 c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\core\fmdashboardmanager.h
+
+1502990050 c:\users\frankmejzlik\onedrive\dev\c++\cb\fmdashboardmanager\src\file\datamanager.h
 

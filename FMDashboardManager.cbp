@@ -36,6 +36,10 @@
 			<Option target="Release" />
 		</Unit>
 		<Unit filename="src/main.cpp" />
+		<Unit filename="src/resource.h" />
+		<Unit filename="src/resource.rc">
+			<Option compilerVar="WINDRES" />
+		</Unit>
 		<Extensions>
 			<code_completion>
 				<search_path add="src\core" />
