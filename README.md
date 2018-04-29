@@ -1,6 +1,8 @@
 # FM Dashboard Manager
 Dashboard Manager for multiple clipboards and fast snippet pasting.
 
+## Not finished yet
+
 ## Description
 Application to efficiently manage multiple dashboards. You can have up to 10 extra dashboards available on keyboard shortcuts you choose.
 
