@@ -1,4 +1,4 @@
-# FM Dashboard Manager
+# FM Clipboard Manager
 Dashboard Manager for multiple clipboards and fast snippet pasting.
 
 #### Application is not finished yet
